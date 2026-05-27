@@ -1,2 +1,2 @@
 # HR_Analytics-Dashboard-Project-
-This is based on HR Analytics 
+Designed a professional HR Analytics Dashboard in Power BI to analyze employee performance, attrition, and workforce insights through interactive visualizations and KPIs
